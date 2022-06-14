@@ -56,9 +56,7 @@ function SignupForm() {
                 <div className="button-container">
                     <input type="submit" />
                 </div>
-                <div>
-                    <h5>This is for testing</h5>
-                </div>
+                
             </form >
         </div >
     );
